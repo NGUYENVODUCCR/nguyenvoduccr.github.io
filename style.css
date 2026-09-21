@@ -98,6 +98,8 @@ button {
   border-radius: 10px;
   background: var(--text);
   color: var(--bg);
+  font-family: "Noto Serif", serif;
+  font-weight: 700;
 }
 
 .nav-links {
